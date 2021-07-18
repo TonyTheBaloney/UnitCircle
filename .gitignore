@@ -1,0 +1,17 @@
+*.class
+*.jar
+.mtj.tmp/
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
